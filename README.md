@@ -1,4 +1,5 @@
 # python-search
+
 # Pada soal percobaan ke 10
 menjabarkan detail program untuk mencari sebuah indeks rotasi terkecil dalam sebuah daftar yang telah di dirotasi. Percobaan pada soal ke 10 ini menggunakan fungsi binary search unutk melakukan pencarian. dan daftrar yang digunakan dalam program yakni [6, 7, 8, 9, 1, 2, 3, 4, 5] dan akan menghasilkan nilai 4
 
